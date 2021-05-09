@@ -1,0 +1,6 @@
+nombre d'atomes = 150
+traces (ON = 1 ; OFF = 0) = 0
+ralentissement (entre 1 et 5) = 1
+gravite = 1
+
+MODIFIER UNIQUEMENT LES NOMBRES APRES LE SIGNE EGAL

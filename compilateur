@@ -1,0 +1,1 @@
+g++ main.c -o gravite2 -O2 -lSDL -lSDLmain -fpermissive -w
